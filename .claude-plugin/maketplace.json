@@ -1,0 +1,19 @@
+{
+    "name": "wade-marketplace",
+    "owner" : {
+        "name" : "wade-marketplace",
+        "email" : "songgimin@gmail.com"
+    },
+    "plugins" : [
+        {
+            "name" : "ppt-market",
+            "source" : "./plugins/ppt-maker",
+            "description" : "PPT 생성 플러그인",
+            "version" : "1.0.0",
+            "author" : {
+                "name" : "wade"
+            }
+        }
+    ]
+
+}
